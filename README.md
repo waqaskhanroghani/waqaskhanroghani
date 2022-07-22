@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waqaskhanroghani
-- 👀 I’m interested in web develpement
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web & app develpement
+- 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 reach me mwaqaskhanroghani@gmail.com
 
