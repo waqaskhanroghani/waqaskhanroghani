@@ -33,8 +33,8 @@
 
   
 
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+   <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png">
   </a>
 
    <a href="https://pandas.pydata.org/" target="_blank">
