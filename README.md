@@ -27,15 +27,11 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <a href="https://reactjs.org/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
 
   
-
-   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png">
-  </a>
 
    <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
