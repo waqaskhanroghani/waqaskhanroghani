@@ -13,7 +13,7 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
    
- <a href="https://www.hackerrank.com/waqaskhanrogahni" target="_blank">
+ <a href="https://www.hackerrank.com/mwaqaskhanrogha1" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 
