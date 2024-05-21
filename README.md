@@ -1,7 +1,6 @@
-
-
 <h1> Greetings Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align='center'>
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Visits&query=value&url=https://api.countapi.xyz/hit/waqaskhanroghani/visits" alt="Profile Visit Count">
 </p>
 
 <p>
@@ -20,11 +19,10 @@
 
 - 👋 Hey there, I'm Waqas Khan.
 - 💼 I specialize in React Native development.
-- 💬 Ask me about React, React Native, Node
+- 💬 Ask me about React, React Native, Node
 - 👯 I’m open to collaborating on frontend/backend software engineering projects.
 - 🌱 Currently, I'm diving into the world of Generative AI.
 - How to reach me: mwaqaskhanroghani@gmail.com
-
 
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 <a href="https://www.java.com" target="_blank"> 
