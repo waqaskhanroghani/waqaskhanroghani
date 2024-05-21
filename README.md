@@ -1,7 +1,5 @@
 <h1> Greetings Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align='center'>
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Visits&query=value&url=https://api.countapi.xyz/hit/waqaskhanroghani/visits" alt="Profile Visit Count">
-</p>
+
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+ReactNative+Engineer;I'm+a+Computer+Science+Engineer" /></a>
