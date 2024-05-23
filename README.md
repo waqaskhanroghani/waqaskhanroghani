@@ -62,7 +62,7 @@
 ---
 
 <h2>Let's Connect <img src="https://media.giphy.com/media/l0HlxAPiX7E0N5vrK/giphy.gif" width="32px"> </h2>
-- 🤝 I love meeting new people and exploring new opportunities. Feel free to connect with me on LinkedIn or reach out via email!
+- 🤝 I love meeting new people and exploring new opportunities. Feel free to connect with me on LinkedIn or reach out via email: mwaqaskhanroghani@gmail.com
 - 😂 Here's a joke for you: Why do programmers prefer dark mode? Because light attracts bugs!
 
 ---
