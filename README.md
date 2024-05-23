@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=waqaskhanroghani&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <h1> Greetings Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
@@ -55,9 +57,7 @@
 </a>
 
 <br/>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=waqaskhanroghani&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
+
 ----------------------------------------------------------------------
 
 
