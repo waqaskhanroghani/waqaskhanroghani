@@ -58,4 +58,7 @@
 
 ----------------------------------------------------------------------
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=waqaskhanroghani&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 Credit: [waqas](https://github.com/waqaskhanroghani)
