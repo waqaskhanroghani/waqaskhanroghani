@@ -1,4 +1,3 @@
-
 [![](https://visitcount.itsvg.in/api?id=waqaskhanroghani&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <h1> Greetings Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
@@ -22,7 +21,9 @@
 - 💬 Ask me about React, React Native, Node
 - 👯 I’m open to collaborating on frontend/backend software engineering projects.
 - 🌱 Currently, I'm diving into the world of Generative AI.
-- How to reach me: mwaqaskhanroghani@gmail.com
+- 📫 How to reach me: mwaqaskhanroghani@gmail.com
+- 🏡 Location: I live in the beautiful city of Islamabad, Pakistan.
+- 🎯 Fun fact: I can solve a Rubik's cube in under a minute!
 
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 <a href="https://www.java.com" target="_blank"> 
@@ -58,6 +59,12 @@
 
 <br/>
 
-----------------------------------------------------------------------
+---
+
+<h2>Let's Connect <img src="https://media.giphy.com/media/l0HlxAPiX7E0N5vrK/giphy.gif" width="32px"> </h2>
+- 🤝 I love meeting new people and exploring new opportunities. Feel free to connect with me on LinkedIn or reach out via email!
+- 😂 Here's a joke for you: Why do programmers prefer dark mode? Because light attracts bugs!
+
+---
 
 Made with ❤️ by Waqas
