@@ -19,7 +19,7 @@
 - 💬 Ask me about React, React Native, Node
 - 👯 I’m open to collaborating on frontend/backend software engineering projects.
 - 🌱 Currently, I'm diving into the world of Generative AI.
-- 📫 How to reach me: mwaqaskhanroghani@gmail.com
+- 📫 How to reach me: waqasthewebmaster@gmail.com
 - 🏡 Location: I live in the beautiful city of Mardan, Pakistan.
 
 
@@ -60,7 +60,7 @@
 ---
 
 <h2>Let's Connect <img src="https://media.giphy.com/media/l0HlxAPiX7E0N5vrK/giphy.gif" width="32px"> </h2>
-- 🤝 I love meeting new people and exploring new opportunities. Feel free to connect with me on LinkedIn or reach out via email: mwaqaskhanroghani@gmail.com
+- 🤝 I love meeting new people and exploring new opportunities. Feel free to connect with me on LinkedIn or reach out via email: waqasthewebmaster@gmail.com
 
 
 ---
