@@ -10,9 +10,7 @@
 <a href="https://stackoverflow.com/users/14498058/waqas-khan?tab=profile" target="_blank">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>  
-<a href="https://www.hackerrank.com/mwaqaskhanrogha1" target="_blank">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
+
 
 - 👋 Hey there, I'm Waqas Khan.
 - 💼 I specialize in React Native development.
