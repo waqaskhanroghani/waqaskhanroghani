@@ -9,7 +9,7 @@
 <a href="https://stackoverflow.com/users/14498058/waqas-khan?tab=profile" target="_blank">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/waqaskhanroghani/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -63,7 +63,7 @@
 
 <h2>Let's Connect <img src="https://media.giphy.com/media/l0HlxAPiX7E0N5vrK/giphy.gif" width="32px"> </h2>
 
-🤝 I love meeting new people and exploring new opportunities. Feel free to connect with me on LinkedIn or reach out via email: waqasthewebmaster@gmail.com
+🤝 I love meeting new people and exploring new opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/waqaskhanroghani/) or reach out via email: waqasthewebmaster@gmail.com
 
 ---
 
